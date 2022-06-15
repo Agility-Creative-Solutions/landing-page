@@ -9547,8 +9547,8 @@ body.op-modal-open {
 }
 
 .active-dark-mode .shape-group-21 .shape-1 img {
-    -webkit-filter: brightness(0.1);
-    filter: brightness(0.1);
+    -webkit-filter: brightness(0.3);
+    filter: brightness(0.3);
 }
 
 .active-dark-mode .shape-group-21 .shape-2 img {
