@@ -10519,3 +10519,15 @@ body.op-modal-open {
         padding-bottom: 0;
     }
 }
+
+@media only screen and (max-width: 414px ) {
+    .idea {
+        margin-left: 1.4em;
+    }
+}
+
+@media only screen and (max-width: 375px ) {
+    .idea {
+        margin-left: 0em;
+    }
+}
