@@ -1584,52 +1584,12 @@ Pagination
 }
 
 .shape-group-9 .shape.shape-2 {
-    top: 180px;
-    left: 18%;
-    opacity: 0.5;
-    -webkit-animation: movingleftright1 infinite 20000ms;
-    animation: movingleftright1 infinite 20000ms;
+    bottom: 200px;
+    left: 0;
 }
-
 .shape-group-9 .shape.shape-3 {
-    top: 31%;
-    left: 20%;
-    -webkit-animation: movingleftright2 infinite 25000ms;
-    animation: movingleftright2 infinite 25000ms;
-}
-
-.shape-group-9 .shape.shape-4 {
-    top: 44%;
-    left: 28%;
-    -webkit-animation: movingleftright1 infinite 25000ms;
-    animation: movingleftright1 infinite 25000ms;
-}
-
-.shape-group-9 .shape.shape-5 {
-    top: 50%;
-    left: 17%;
-    -webkit-animation: movingleftright2 infinite 30000ms;
-    animation: movingleftright2 infinite 30000ms;
-}
-
-.shape-group-9 .shape.shape-6 {
-    top: 26%;
-    right: 21%;
-    -webkit-animation: movingleftright3 infinite 30000ms;
-    animation: movingleftright3 infinite 30000ms;
-}
-
-@media only screen and (max-width: 767px) {
-    .shape-group-9 .shape.shape-6 {
-        display: none;
-    }
-}
-
-.shape-group-9 .shape.shape-7 {
-    top: 30%;
-    right: 15%;
-    -webkit-animation: movingleftright1 infinite 30000ms;
-    animation: movingleftright1 infinite 30000ms;
+    top: 280px;
+    left: 140px;
 }
 
 .shape-group-10 .shape {
