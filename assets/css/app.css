@@ -3912,7 +3912,7 @@ Pagination
 }
 
 .contact-address .section-heading {
-    margin-bottom: 180px;
+    margin-bottom: 50px;
 }
 
 @media only screen and (max-width: 991px) {
@@ -9023,7 +9023,7 @@ body.op-modal-open {
    Footer Styles
 -------------------------*/
 .footer-area {
-    padding-top: 10px;
+    padding-top: 90px;
 }
 
 .footer-top {
@@ -9048,7 +9048,6 @@ body.op-modal-open {
     -webkit-box-pack: justify;
     -webkit-justify-content: space-between;
     -ms-flex-pack: justify;
-    justify-content: space-between;
     margin: 0 -5px;
 }
 
