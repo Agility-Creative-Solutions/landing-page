@@ -4602,8 +4602,9 @@ Pagination
 }
 
 .project-grid .content {
-    background-color: var(--color-white);
+    background-color: #DCDCDC;
     border-radius: 0 0 30px 30px;
+    border-width: 50px;
     padding: 40px 50px;
 }
 
